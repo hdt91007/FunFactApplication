@@ -5,6 +5,8 @@ package com.pluralsight;
 public class Main {
     public static void main(String[] args) {
         System.out.println("My fun fact: ");
-        System.out.println("I once had listened to Spotify for over 8800 hours in a year :).");
+        System.out.println("I once had listened to Spotify for over 8800 hours in a year :)");
+        System.out.println("My Bucket List Item: ");
+        System.out.println("Todo: add bucketlist item");
     }
 }
